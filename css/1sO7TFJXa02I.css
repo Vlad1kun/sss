@@ -397,10 +397,6 @@ li.fancybox-thumbs-loading {background: rgba(0,0,0,.1);}
 	footer .line-politic .col-left {
 		flex-direction: column;
 	}
-
-	* {
-		outline: 1px solid red;
-	}
 }
 
 /* main {
